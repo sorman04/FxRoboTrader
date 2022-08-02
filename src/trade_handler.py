@@ -1,0 +1,1 @@
+# the module handles the trades made by the platform
